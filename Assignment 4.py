@@ -1,9 +1,4 @@
 # Fill in your details
-full_name1 = "safaa elhamede"        # Fill full name of 1st student here
-student_ID1 = "206736639"            # Fill ID of 1st student here
-
-full_name2 = "Israela Israelush"        # Fill full name of 2nd student here
-student_ID2 = "987654321"               # Fill ID of 2nd student here
 
 
 

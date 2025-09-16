@@ -1,12 +1,5 @@
 # Fill in your details
-full_name1 = "safaa elhmede"        # Fill full name of 1st student here
-student_ID1 = "206736639"            # Fill ID of 1st student here
-
-
-
-full_name2 = "Israela Israelush"        # Fill full name of 2nd student here
-student_ID2 = "987654321"               # Fill ID of 2nd student here
-
+# ASSIGNMENT 3 
 
 
 
@@ -182,9 +175,8 @@ def robot_efficiency(oranges):
     else:
         return 0
 
-if __name__ == "__main__":
-    full_name= 'saafaa elhmede'
-    student_ID= '206736639'
-    print (f"This work is the work of:\n{full_name} ({student_ID})")
+#if __name__ == "__main__":
+    
+    #print (f"This work is the work of:\n{full_name} ({student_ID})")
 
 

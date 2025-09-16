@@ -1,12 +1,6 @@
 # Mathematical Applications in Computer Science
 # Assignment 1
 
-# Fill in your details
-full_name1 = "safaa elhmede"        # Fill full name of 1st student here
-student_ID1 = "206736639"            # Fill ID of 1st student here
-
-# full_name2 = "Israela Israelush"        # Fill full name of 2nd student here
-# student_ID2 = "987654321"               # Fill ID of 2nd student here
 
 
 # Exercise 1
@@ -64,7 +58,6 @@ def index_of(n, s):
 
 # You can try your code here:
 
-full_name="safaa elhmede" 
-student_ID="206736639"
 
-print (f"This work is the work of:\n{full_name} ({student_ID})")
+
+#print (f"This work is the work of:\n{full_name} ({student_ID})")
